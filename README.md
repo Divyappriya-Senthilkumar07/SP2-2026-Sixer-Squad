@@ -10,7 +10,7 @@
 ## Team Members
 | Name | Year | Department |
 |------|------|------------|
-| Divyappriya S (Team Lead) | 2nd Year | Computer Science and Engineering |
+| Divyappriya S | 2nd Year | Computer Science and Engineering |
 | Vaishnavi K | 3rd Year | Computer Science and Engineering |
 | Grace Crystel C | 3rd Year | Computer Science and Engineering |
 | Mouriya V K | 3rd Year | Computer Science and Engineering |
@@ -116,3 +116,6 @@ All predictions are integers truncated to the range [10, 120].
 - **Multi-player averaging** — handles comma-separated player ID lists
 - **Embedded player ID map** as fallback — works even if player CSV is unavailable
 - **Full try/except safety** — model never crashes, always returns a prediction
+
+## License 
+This Project is licensed under the MIT License.
